@@ -1,6 +1,6 @@
 # TEKN
 
-![thegoat](https://images2.imgbox.com/d0/ba/qd49RNeU_o.png)
+![TEKN Homepage Gif](Hnet-image.gif)
 
 **This is my personal website, TEKN. Welcome to the Github repo for it.**
 
@@ -21,3 +21,4 @@ Even without thinking about what would concur if I tried to re-write the legacy 
 ### Have fun checking it out though. Custom Domain (nyumat.com) is coming soon. 
 
 # :)
+![bruh](Hnet-image.gif)
