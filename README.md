@@ -1,6 +1,6 @@
 # TEKN
 
-![TEKN Homepage Gif](Hnet-image.gif)
+![TEKN Homepage Gif](TEKN-demo.gif)
 
 **This is my personal website, TEKN. Welcome to the Github repo for it.**
 
