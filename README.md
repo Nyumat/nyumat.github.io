@@ -18,7 +18,7 @@ Especially considering that the project page is completely outdated. And looking
 
 Even without thinking about what would concur if I tried to re-write the legacy JS code, I knew from the start there was no was it'd end well. When I first began development, I really only had the word Portfoilio stuck in my head and that's all I coded towards. Hence such a weird index for just 4 side-projects, lol.
 
-Have fun checking it out though! Custom Domain (nyumat.com) is coming soon. 
+Have fun checking it out though! Custom Domain (nyumat.com) is coming very soon. 
 
 # :)
 
