@@ -8,7 +8,7 @@ I was originally going to continue hosting it through Github pages with a custom
 
 *And here we are.*
 
-# The Development Process.
+# The Development Process...
 
 It definitely isn't the most perfect thing in the world. It's Simple. But as a wise man once said:
 
