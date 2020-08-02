@@ -14,9 +14,11 @@ I am by no means an expert on Web Development, this project only even came to fr
 
 > Hmm. When I  start college this fall, maybe I should come in with some advanced programming knowledge so that I could focus my efforts on learning Data Structs and Algos for those prestigous FAANG internships. 
 
-The irony is that *(I literally now exclusively build Native iOS apps, lol.)*
+Although... *I slowly realized how much more I enjoy Native iOS Development*
 
-# The Development Process...
+
+# Alright enough rambling, now to the fun stuff.
+## The Development Process...
 
 Let's face it TEKN isn't the most perfect thing in the world. It's Simple. But as a wise man once said:
 
