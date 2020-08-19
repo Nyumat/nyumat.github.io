@@ -40,3 +40,9 @@ Have fun checking it out! My very own Custom Domain (nyumat.com) is coming very 
 
 # :)
 
+## To-Do's
+
+- [ ] Update Resume 
+- [ ] Add new images for the the Box CSS Selectors
+- [ ] Lower the hover blur on the landing.html page
+- [ ] Create a new Blog page for CS Interest with Posting, Commenting, and Reading.
